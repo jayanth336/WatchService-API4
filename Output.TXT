@@ -1,0 +1,8 @@
+C:\New folder: ENTRY_MODIFY: a.TXT
+C:\New folder: ENTRY_CREATE: New folder
+C:\New folder: ENTRY_DELETE: New folder
+C:\New folder: ENTRY_CREATE: a
+C:\New folder: ENTRY_CREATE: New Text Document.TXT
+C:\New folder: ENTRY_DELETE: New Text Document.TXT
+C:\New folder: ENTRY_CREATE: b.TXT
+C:\New folder: ENTRY_MODIFY: b.TXT
